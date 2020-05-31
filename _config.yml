@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &shaonan
+  username               : &tianlin
 facebook:
   username               :
   app_id                 :
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaonan Wang"
+  name             : "Tianlin Zhang"
   avatar           : "profile.jpg"
-  bio              : "Assistant Researcher at CASIA, expert in Natural Language Understanding."
+  bio              : "University of Chinese Academy of Sciences, expert in Natural Language Processing."
   location         : "Beijing, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=4UJtgKsAAAAJ"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wangshaonan"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "shaonan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
