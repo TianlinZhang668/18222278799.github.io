@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an Assistant Professor at the institute of Automation, Chinese Academy of Sciences, Beijing, China.  In June 2020, I received my Master degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Prior to this, I received my BS degree from Nankai University in June 2017.
+In June 2020, I received my Master degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Prior to this, I received my BS degree from Nankai University in June 2017.
 
 My current research interests include Natural Language Processing (especially BioNLP), Data mining, Artificial intelligence and so on.
 
