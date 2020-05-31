@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,51 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am now an Assistant Professor at the institute of Automation, Chinese Academy of Sciences, Beijing, China.  In June 2018, I received my PhD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Prior to this, I received my BS degree from Northeastern University in June 2013.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research focuses on 1) combining insights of cognitive psychology to build better natural language understanding models. I am interested in: how to represent language symbols as a form that the computer can understand; How to make the language model learn as efficiently as people; How to evaluate the performance of a computational model; etc. 2) Applying machine learning and NLP methods in studying cognitive neuroscience researches. Currently, I use computational methods to study human language representation and sequence learning. I am interested in: how human represent and store semantic concepts; how human combine words to form more complex meaning of sentences; How can human learn and generalize from few examples; etc.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Publications
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **Shaonan Wang**, Jiajun Zhang, Nan Lin and Chengqing Zong. Probing Brain Activation Patterns by Dissociating Semantics and Syntax in Sentences. The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, Feb. 7-12, 2020.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Shaonan Wang**, Jiajun Zhang, Haiyan Wang, Nan Lin and Chengqing Zong. Fine-grained Neural Decoding with Distributed Word Representations. Information Sciences, 507 (2020) 256–272
 
-**Markdown generator**
+- Kexin Wang, Yu Zhou, **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Understanding Memory Modules on Learning Simple Algorithms. In Proceedings of the IJCAI-19 Workshop on Explainable Artificial Intelligence (XAI), Macao, China, August 10-16, 2019, pp.5471-5477
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- Jingyuan Sun, **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Towards Sentence-Level Brain Decoding with Distributed Representations. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), Honolulu, Hawaii, USA, January 27th – February 1st, 2019,Vol. 33,  pp. 7047-7054
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Associative Multichannel Autoencoder for Multimodal Word Representation. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, Belgium, October 31th–November 4th, 2018, pp. 116-124
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- Jingyuan Sun, **Shaonan Wang** and Chengqing Zong. Memory, Show the Way: Memory Based Few Shot Word Representation Learning. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, Belgium, October 31th–November 4th, 2018, pp. 1435-1444
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- **Shaonan Wang**, Jiajun Zhang, Nan Lin and Chengqing Zong. Investigating Inner Properties of Multimodal Representation and Semantic Compositionality with Brain-based Componential Semantics. In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI-18), New Orleans, Louisiana, USA, February 2-7, 2018, pp. 5964-5972. 
+
+- **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Learning Multimodal Word Representation via Dynamic Fusion Methods.  In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI-18), New Orleans, Louisiana, USA, February 2-7, 2018, pp. 5973-5980. 
+
+- **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Empirical Exploring Word-Character Relationship for Chinese Sentence Representation, ACM Transactions on Asian Language and Low-Resource Language Information Processing (TALLIP), Vol. 17, No. 3, Article 14, 18 pages, January 2018.
+
+- **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Exploiting Word Internal Structures for Generic Chinese Sentence Representation.  In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP-17), Copenhagen, Denmark, September 9-11, 2017, pp. 298-303.
+
+- **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Learning Sentence Representation with Guidance of Human Attention.  In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI-17), Melbourne, Australia, August 19-25, 2017, pp. 4137-4143. 
+
+- **Shaonan Wang** and Chengqing Zong. Comparison Study on Critical Components in Composition Model for Phrase Representation, ACM Transactions on Asian Language and Low-Resource Language Information Processing (TALLIP), Vol. 16, No. 3, Article 16, 25 pages, January 2017. 
+
+- **王少楠**，宗成庆. 一种基于双通道LDA模型的汉语词义表示与归纳方法. 计算机学报，2016年8月，第39卷，第8期，第1652-1666页.
+
+
+# Awards and Achievements
+- 2020 Scholarship by the China Scholarship Council
+- 2019 Chinese Academy of Sciences Excellent Doctoral Thesis Award
+- 2019 Member of Youth Innovation Promotion Association,CAS
+-	2018 Chinese Information Processing Society of China Excellent Doctoral Thesis Award
+-	2018 CAS Presidential Scholarship (Special Prize)
+-	2018 Beijing Outstanding Graduate Student Awards
+-	2018 University of CAS Outstanding Graduate Student Awards
+-	2017 PhD student National Scholarship
+-	2017 CAS Institute of Automation“Rokid”Scholarship
+-	2017 CAS Institute of Automation “Pandeng” Scholarship
+-	2014, 2017 University of CAS Merit Student
+-	2013 Northeastern University Outstanding Graduate Student Awards
+-	2012 Undergraduate National Scholarship
