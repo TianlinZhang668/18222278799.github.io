@@ -15,11 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Publications
 
-- **Shaonan Wang**, Jiajun Zhang, Nan Lin and Chengqing Zong. Probing Brain Activation Patterns by Dissociating Semantics and Syntax in Sentences. The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, Feb. 7-12, 2020.
-
-- Deep learning for drug-drug interaction extraction from the literature: a review
-Tianlin Zhang, Jiaxu Leng, Ying Liu
-《Briefings in Bioinformatics》
+- **Tianlin Zhang**, Jiaxu Leng, Ying Liu. Deep learning for drug-drug interaction extraction from the literature: a review. Briefings in Bioinformatics.
 
 
 
@@ -35,12 +31,18 @@ Tianlin Zhang, Jiaxu Leng, Ying Liu
   Advances in systems science and applications
 
 - **PC Member/Reviewer**:
-International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
-The 27th International Conference on Neural Information Processing (ICONIP 2020) 
-19th International Workshop on Data Mining in Bioinformatics In Conjunction with SIGKDD 2020 (BIOKDD 2020)
-2020 International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2020)
-2020 International Conference on Modern Management based on Big Data (MMBD 2020)
-IEEE/WIC/ACM International Conference on Web Intelligence 2019
+
+  International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
+
+  The 27th International Conference on Neural Information Processing (ICONIP 2020) 
+
+  19th International Workshop on Data Mining in Bioinformatics In Conjunction with SIGKDD 2020 (BIOKDD 2020)
+
+  2020 International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2020)
+
+  2020 International Conference on Modern Management based on Big Data (MMBD 2020)
+
+  IEEE/WIC/ACM International Conference on Web Intelligence 2019
 
 # Membership
 - ACL member / AAAI member/ AMIA member/ ACM student member/ CCF student member/ CIPS student member
