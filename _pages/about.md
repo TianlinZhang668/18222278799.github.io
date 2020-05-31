@@ -25,13 +25,14 @@ Tianlin Zhang, Jiaxu Leng, Ying Liu
 
 # Professional services
 - **Journal Reviewer**:
-Briefings in bioinformatics
 
-IEEE Journal of Biomedical and Health Informatics 
+  Briefings in bioinformatics
 
-IEEE ACCESS
+  IEEE Journal of Biomedical and Health Informatics 
 
-Advances in systems science and applications
+  IEEE ACCESS
+
+  Advances in systems science and applications
 
 - **PC Member/Reviewer**:
 International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
