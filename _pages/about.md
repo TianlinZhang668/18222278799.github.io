@@ -30,7 +30,7 @@ IEEE Journal of Biomedical and Health Informatics
 IEEE ACCESS
 Advances in systems science and applications
 
--PC Member/Reviewer:
+- PC Member/Reviewer:
 International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
 The 27th International Conference on Neural Information Processing (ICONIP 2020) 
 19th International Workshop on Data Mining in Bioinformatics In Conjunction with SIGKDD 2020 (BIOKDD 2020)
