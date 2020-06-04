@@ -44,6 +44,8 @@ My current research interests include Natural Language Processing (especially Bi
 - **PC Member/Reviewer**:
 
   International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
+  
+  32th International Conference on Tools with Artificial Intelligence （ICTAI 2020）
 
   The 27th International Conference on Neural Information Processing (ICONIP 2020) 
 
