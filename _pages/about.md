@@ -55,14 +55,16 @@ My current research interests include Natural Language Processing (especially Bi
 
 - **Reviewer**:
   
-  The 27th International Conference on Neural Information Processing (ICONIP 2020) 
+  The 27th International Conference on Neural Information Processing (ICONIP 2020)
+  
+  The 8th Workshop on Data Mining in Biomedical Informatics and Healthcare In Conjunction with ICDM 2020 (DMBIH'20)
 
   2020 International Conference on Modern Management based on Big Data (MMBD 2020)
 
   IEEE/WIC/ACM International Conference on Web Intelligence 2019
 
 # Membership
-- ACL member / AAAI member/ AMIA member/ ACM student member/ CCF student member/ CIPS student member
+- ACL member / AAAI member/ AMIA member/ IEEE student member/ ACM student member/ CCF student member/ CIPS student member/ EMBS member
 
 # Awards and Achievements
 - 2019 Beijing Merit Student Award
