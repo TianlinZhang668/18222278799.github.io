@@ -58,6 +58,8 @@ My current research interests include Natural Language Processing (especially Bi
   The 27th International Conference on Neural Information Processing (ICONIP 2020)
   
   The 8th Workshop on Data Mining in Biomedical Informatics and Healthcare In Conjunction with ICDM 2020 (DMBIH'20)
+  
+  The 6th International Conference on Fuzzy Systems and Data Mining (FSDM 2020)
 
   2020 International Conference on Modern Management based on Big Data (MMBD 2020)
 
