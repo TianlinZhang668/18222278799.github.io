@@ -35,7 +35,7 @@ My current research interests include Natural Language Processing (especially Bi
 
   Briefings in bioinformatics
   
-  IEEE Transactions on Audio, Speech and Language Processing
+  IEEE/ACM Transactions on Audio, Speech and Language Processing
 
   IEEE Journal of Biomedical and Health Informatics 
 
