@@ -63,6 +63,8 @@ My current research interests include Natural Language Processing (especially Bi
   
   The SIGNLL Conference on Computational Natural Language Learning (CoNLL 2020)
   
+  American Medical Informatics Association Annual Symposium (AMIA 2021)
+  
   The 8th Workshop on Data Mining in Biomedical Informatics and Healthcare In Conjunction with ICDM 2020 (DMBIH'20)
   
   The 6th International Conference on Fuzzy Systems and Data Mining (FSDM 2020)
