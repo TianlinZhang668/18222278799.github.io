@@ -65,7 +65,7 @@ My current research interests include Natural Language Processing (especially Bi
   
   American Medical Informatics Association Annual Symposium (AMIA 2021)
   
-  The 8th Workshop on Data Mining in Biomedical Informatics and Healthcare In Conjunction with ICDM 2020 (DMBIH'20)
+  The 14th International Workshop on Data and Text Mining in Biomedicine In Conjunction with CIKM 2020 (DTMBio2020)
   
   The 6th International Conference on Fuzzy Systems and Data Mining (FSDM 2020)
 
