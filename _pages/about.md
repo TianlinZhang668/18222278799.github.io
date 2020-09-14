@@ -51,6 +51,8 @@ My current research interests include Natural Language Processing (especially Bi
   
   19th International Workshop on Data Mining in Bioinformatics In Conjunction with SIGKDD 2020 (BIOKDD 2020)
   
+  The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021)
+  
   The 27th International Conference on Neural Information Processing (ICONIP 2020)
     
   The 7th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2020)
