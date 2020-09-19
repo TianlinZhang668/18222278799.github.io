@@ -45,7 +45,7 @@ My current research interests include Natural Language Processing (especially Bi
 
   Advances in systems science and applications
 
-- **Program committee**:
+- **Program Committee**:
 
   International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
   
