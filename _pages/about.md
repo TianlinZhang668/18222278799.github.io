@@ -34,6 +34,8 @@ My current research interests include Natural Language Processing (especially Bi
 - **Journal Reviewer**:
 
   Briefings in bioinformatics
+
+  BMC Supplements
   
   IEEE/ACM Transactions on Audio, Speech and Language Processing
 
@@ -74,8 +76,6 @@ My current research interests include Natural Language Processing (especially Bi
   The 8th Workshop on Data Mining in Biomedical Informatics and Healthcare In Conjunction with ICDM 2020 (DMBIH’20) 
   
   The 6th International Conference on Fuzzy Systems and Data Mining (FSDM 2020)
-
-  2020 International Conference on Modern Management based on Big Data (MMBD 2020)
 
   IEEE/WIC/ACM International Conference on Web Intelligence 2019
 
