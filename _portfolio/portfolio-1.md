@@ -1,4 +1,4 @@
 ---
 title: "Email"
-excerpt: "zhangtianlin172@mails.ucas.ac.cn"
+excerpt: "tianlin.zhang (at) postgrad dot manchester dot ac dot uk"
 ---
