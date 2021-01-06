@@ -36,30 +36,51 @@ My current research interests include Natural Language Processing (especially Bi
 - **Journal Reviewer**:
 
   Briefings in bioinformatics
+  
   BMC Supplements
+  
   IEEE Transactions on Neural Networks and Learning Systems
+  
   IEEE/ACM Transactions on Audio, Speech and Language Processing
+  
   IEEE Journal of Biomedical and Health Informatics 
+  
   IEEE ACCESS
+  
   Journal of Biomedical Informatics
 
 - **Program Committee/Reviewer**:
 
   2021 International Conference on Learning Representations (ICLR 2021)
+  
   The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021)
+  
   The 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2021)
+  
   The 19th Asia Pacific Bioinformatics Conference (APBC 2021)
+  
   American Medical Informatics Association Annual Symposium (AMIA 2021)
+  
   International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
+  
   19th International Workshop on Data Mining in Bioinformatics In Conjunction with SIGKDD 2020 (BIOKDD 2020)
+  
   The 27th International Conference on Neural Information Processing (ICONIP 2020)
+  
   The 7th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2020)
+  
   32th International Conference on Tools with Artificial Intelligence （ICTAI 2020）
+  
   2020 International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2020)
+  
   The SIGNLL Conference on Computational Natural Language Learning (CoNLL 2020)
+  
   The 14th International Workshop on Data and Text Mining in Biomedicine In Conjunction with CIKM 2020 (DTMBio2020)
+  
   The 8th Workshop on Data Mining in Biomedical Informatics and Healthcare In Conjunction with ICDM 2020 (DMBIH’20) 
+  
   The 6th International Conference on Fuzzy Systems and Data Mining (FSDM 2020)
+  
   IEEE/WIC/ACM International Conference on Web Intelligence 2019
 
 # Membership
