@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 
 # Publications
-
+## 2019
 - **Zhang, T.**, Leng, J., & Liu, Y. (2019). Deep learning for drug–drug interaction extraction from the literature: a review. Briefings in bioinformatics. (IF=9.101)
 - Cui, Z., Gao, Z., Leng, J., **Zhang, T.**, Quan, P., & Zhao, W. (2019, November). Alzheimer's Disease Diagnosis Using Enhanced Inception Network Based on Brain Magnetic Resonance Image. In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 2324-2330). IEEE.
 - Leng, J., Cui, Z., Xiang, C., **Zhang, T.**, & Quan, P. (2019, November). A Novel Neuron Connection Model Mimicking Human Beings. In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1217-1219). IEEE.
@@ -23,6 +23,7 @@ My current research interests include Natural Language Processing (especially Bi
 - Liu, Y., Cui, Z., **Zhang, T.**, Leng, J., Xie, W., & Zhang, L. (2019, June). CA-RPT: Context-Aware Road Passage Time Estimation for Urban Traffic. In International Conference on Computational Science (pp. 664-673). Springer, Cham.
 - Quan, P., Shi, Y., Lei, M., Leng, J., **Zhang, T.**, & Niu, L. (2019, October). A Brief Review of Receptive Fields in Graph Convolutional Networks. In IEEE/WIC/ACM International Conference on Web Intelligence-Companion Volume (pp. 106-110).
 - Leng, J., Liu, Y., Du, D., **Zhang, T.**, & Quan, P. (2019). Robust Obstacle Detection and Recognition for Driver Assistance Systems. IEEE Transactions on Intelligent Transportation Systems. (IF=5.744)
+## 2018
 - **Zhang, T.**, & Quan, P. (2018, December). Domain specific automatic Chinese multiple-type question generation. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1967-1971). IEEE.
 - Leng, J., Liu, Y., **Zhang, T.**, Quan, P., & Cui, Z. (2018, December). Context-aware u-net for biomedical image segmentation. In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 2535-2538). IEEE.
 - Leng, J., Liu, Y., **Zhang, T.**, & Quan, P. (2018, November). Context learning network for object detection. In 2018 IEEE International Conference on Data Mining Workshops (ICDMW) (pp. 667-673). IEEE.
@@ -35,59 +36,34 @@ My current research interests include Natural Language Processing (especially Bi
 - **Journal Reviewer**:
 
   Briefings in bioinformatics
-
   BMC Supplements
-  
   IEEE Transactions on Neural Networks and Learning Systems
-  
   IEEE/ACM Transactions on Audio, Speech and Language Processing
-
   IEEE Journal of Biomedical and Health Informatics 
-
   IEEE ACCESS
-  
   Journal of Biomedical Informatics
 
-  Advances in systems science and applications
-
-- **Program Committee**:
-
-  The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021)
-  
-  The 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2021)
-
-  International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
-  
-  19th International Workshop on Data Mining in Bioinformatics In Conjunction with SIGKDD 2020 (BIOKDD 2020)
-  
-  The 27th International Conference on Neural Information Processing (ICONIP 2020)
-    
-  The 7th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2020)
-  
-  32th International Conference on Tools with Artificial Intelligence （ICTAI 2020）
-  
-  2020 International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2020)  ------  **Best Reviewer**
-
-- **Reviewer**:
+- **Program Committee/Reviewer**:
 
   2021 International Conference on Learning Representations (ICLR 2021)
-  
+  The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021)
+  The 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2021)
   The 19th Asia Pacific Bioinformatics Conference (APBC 2021)
-  
   American Medical Informatics Association Annual Symposium (AMIA 2021)
-  
+  International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
+  19th International Workshop on Data Mining in Bioinformatics In Conjunction with SIGKDD 2020 (BIOKDD 2020)
+  The 27th International Conference on Neural Information Processing (ICONIP 2020)
+  The 7th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2020)
+  32th International Conference on Tools with Artificial Intelligence （ICTAI 2020）
+  2020 International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2020)
   The SIGNLL Conference on Computational Natural Language Learning (CoNLL 2020)
-  
   The 14th International Workshop on Data and Text Mining in Biomedicine In Conjunction with CIKM 2020 (DTMBio2020)
-  
   The 8th Workshop on Data Mining in Biomedical Informatics and Healthcare In Conjunction with ICDM 2020 (DMBIH’20) 
-  
   The 6th International Conference on Fuzzy Systems and Data Mining (FSDM 2020)
-
   IEEE/WIC/ACM International Conference on Web Intelligence 2019
 
 # Membership
-- ACL member / AAAI member/ AMIA member/ IEEE student member/ ACM student member/ CCF student member/ SIGKDD member/ EMBS member/ CIPS student member
+- ACL member / AAAI member/ AMIA member/ IEEE student member/ ACM student member/ CCF student member/ SIGKDD member/ EMBS member
 
 # Awards and Achievements
 - 2019 Beijing Merit Student Award
