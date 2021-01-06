@@ -11,7 +11,7 @@ redirect_from:
 Beginning Jan 2021, I will be a PhD student at the National Center for Text Mining (NaCTeM) at the University of Manchester, advised by Prof. Sophia Ananiadou.
 In June 2020, I received my Master degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Prior to this, I received my BS degree from Nankai University in June 2017.
 
-My current research interests include Natural Language Processing (especially BioNLP), Data mining, Artificial intelligence and so on. 🎉
+My current research interests include Natural Language Processing (especially BioNLP), Artificial intelligence and so on. 🎉
 
 
 # Publications
@@ -39,11 +39,12 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Professional services
 - **Journal Reviewer**:
-Briefings in bioinformatics
+
+  Briefings in bioinformatics
  
-BMC Supplements
+  BMC Supplements
   
-IEEE Transactions on Neural Networks and Learning Systems
+  IEEE Transactions on Neural Networks and Learning Systems
   
   IEEE/ACM Transactions on Audio, Speech and Language Processing
   
