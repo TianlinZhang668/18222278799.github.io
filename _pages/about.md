@@ -89,7 +89,7 @@ My current research interests include Natural Language Processing (especially Bi
   IEEE/WIC/ACM International Conference on Web Intelligence 2019
 
 # Membership
-- ACL member / AAAI member/ AMIA member/ IEEE student member/ ACM student member/ CCF student member/ SIGKDD member/ EMBS member
+- ACL student member / AAAI member/ AMIA student member/ IEEE student member/ ACM student member/ CCF student member/ SIGKDD member/ EMBS member
 
 # Awards and Achievements
 - 2019 Beijing Merit Student Award
