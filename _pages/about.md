@@ -18,7 +18,7 @@ My current research interests include Natural Language Processing (especially Bi
 ## 2020
 - **Zhang, T.**, Leng, J., & Liu, Y. (2020). Deep learning for drug–drug interaction extraction from the literature: a review. Briefings in bioinformatics, 21(5), 1609-1627.(IF=9.101)
 - Cui, Z., Leng, J., Liu, Y., **Zhang, T.**, Quan, P., & Zhao, W. SKNet: Detecting Rotated Ships as Keypoints in Optical Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing. 
-- Liu, Y., Wang, W., **Zhang, T.**, & Cui, Z. AttentionFM: Incorporating Attention Mechanism and Factorization Machine for Credit Scoring. In 2020 IEEE International Conference on Data Mining Workshops (ICDMW). 
+- Liu, Y., Wang, W., **Zhang, T.**, & Cui, Z. (2020, November). AttentionFM: Incorporating Attention Mechanism and Factorization Machine for Credit Scoring. In 2020 International Conference on Data Mining Workshops (ICDMW) (pp. 356-361). IEEE. 
 
 ## 2019
 - Cui, Z., Gao, Z., Leng, J., **Zhang, T.**, Quan, P., & Zhao, W. (2019, November). Alzheimer's Disease Diagnosis Using Enhanced Inception Network Based on Brain Magnetic Resonance Image. In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 2324-2330). IEEE.
