@@ -94,8 +94,6 @@ My current research interests include Emotion detection for mental health, Natur
   
   IEEE/WIC/ACM International Conference on Web Intelligence 2019
 
-# Membership
-- ACL student member / AAAI member/ AMIA student member/ IEEE student member/ ACM student member/ CCF student member/ SIGKDD member/ EMBS member
 
 # Awards and Achievements
 - 2019 Beijing Merit Student Award
