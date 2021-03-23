@@ -104,5 +104,5 @@ My current research interests include Emotion detection for mental health, Natur
 -	2014 Nankai University Youth League Excellent Officer Award
 -	2013 Dean's Cup Debate Competition Software College First Prize
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=no8ZIvesRUkJmyT_MkUljhI1czi9UYGRiCSy7GS-O1Y"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=200&t=n&d=no8ZIvesRUkJmyT_MkUljhI1czi9UYGRiCSy7GS-O1Y"></script>
 
