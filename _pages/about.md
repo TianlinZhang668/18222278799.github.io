@@ -15,6 +15,9 @@ My current research interests include Emotion detection for mental health, Natur
 
 
 # Publications
+## 2021
+- **Zhang, T.**, Cui, Z., Leng, J., & Liu, Y. CSFQGD: Chinese Sentence Fill-in-the-blank Question Generation Dataset for Examination. IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD). IEEE. (Preprint)
+
 ## 2020
 - **Zhang, T.**, Leng, J., & Liu, Y. (2020). Deep learning for drug–drug interaction extraction from the literature: a review. Briefings in bioinformatics, 21(5), 1609-1627.(IF=9.101)
 - Cui, Z., Leng, J., Liu, Y., **Zhang, T.**, Quan, P., & Zhao, W. SKNet: Detecting Rotated Ships as Keypoints in Optical Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing. 
