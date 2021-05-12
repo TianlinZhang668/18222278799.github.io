@@ -65,6 +65,8 @@ My current research interests include Emotion detection for mental health, Natur
   
   International Conference on Bioinformatics & Biomedicine 2021 （BIBM 2021）
   
+  The SIGNLL Conference on Computational Natural Language Learning (CoNLL 2021)
+  
   The 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021)
   
   The 8th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2021)
