@@ -81,6 +81,8 @@ My current research interests include Emotion detection for mental health, Natur
   
   American Medical Informatics Association Annual Symposium (AMIA 2021)
   
+  33th International Conference on Tools with Artificial Intelligence （ICTAI 2021）
+  
   International Conference on Bioinformatics & Biomedicine 2020 （BIBM 2020）
   
   19th International Workshop on Data Mining in Bioinformatics In Conjunction with SIGKDD 2020 (BIOKDD 2020)
