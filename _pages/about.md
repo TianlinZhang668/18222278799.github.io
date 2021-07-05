@@ -16,7 +16,7 @@ My current research interests include Emotion detection for mental health, Natur
 
 # Publications
 ## 2021
-- **Zhang, T.**, Schoene A.M. and Ananiadou, S., Automatic identification of suicide notes with a transformer-based deep learning model, Internet Interventions, In Press
+- **Zhang, T.**, Schoene, A. M., & Ananiadou, S. (2021). Automatic identification of suicide notes with a transformer-based deep learning model. Internet Interventions, 100422.
 - Alhuzali, H., **Zhang, T.** and Ananiadou, S., Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier., in: CLEF (Working Notes), In Press
 - **Zhang, T.**, Cui, Z., Leng, J., & Liu, Y. (2021, May). CSFQGD: Chinese Sentence Fill-in-the-blank Question Generation Dataset for Examination. In 2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (pp. 609-613). IEEE.
 
