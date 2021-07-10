@@ -111,6 +111,7 @@ My current research interests include Emotion detection for mental health, Natur
 
 
 # Awards and Achievements
+- 2021 Acceptance to the General Program as a student at MLSS 2021 Taipei <a href="http://ai.ntu.edu.tw/mlss2021/">website</a>
 - 2021 I am co-organizing ICML 2021 workshop “Computational Approaches to Mental Health” <a href="https://sites.google.com/view/ca2mh/">website</a>
 - 2019 Beijing Merit Student Award
 - 2019 National Scholarship for Graduate Students
