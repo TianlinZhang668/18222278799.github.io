@@ -84,8 +84,8 @@ author:
   bio              : "Ph.D student at the University of Manchester, working on natural language processing "
   location         : "Manchester, UK"
   employer         :
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=Yy88kOoAAAAJ"
+  email            : "tianlin.zhang@postgrad.manchester.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,14 +98,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tianlin-zhang-58135a17a/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/TianlinZhang6"
   vine             :
   weibo            :
   xing             :
