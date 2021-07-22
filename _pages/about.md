@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at the University of Manchester, advised by Prof. Sophia Ananiadou.
 In June 2020, I received my Master degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Prior to this, I received my BS degree from Nankai University in June 2017.
 
-My current research interests include Emotion detection for mental health, Natural Language Processing (especially BioNLP), Artificial intelligence and so on. 🎉
+My current research interests include Natural Language Processing (especially BioNLP), Artificial intelligence and so on. 🎉
 
 
 # Publications
