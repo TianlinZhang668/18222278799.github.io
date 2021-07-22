@@ -82,7 +82,7 @@ author:
   name             : "Tianlin Zhang"
   avatar           : "profile.jpg"
   bio              : "Ph.D student at the University of Manchester, working on natural language processing "
-  location         : "Beijing, China"
+  location         : "Manchester, UK"
   employer         :
   googlescholar    : 
   email            :
@@ -118,6 +118,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _publications
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
