@@ -17,11 +17,13 @@ My current research interests include Natural Language Processing (especially Bi
 # Professional services
 - **Journal Reviewer**:
 
-  Briefings in bioinformatics, BMC Supplements, IEEE Transactions on Neural Networks and Learning Systems, IEEE/ACM Transactions on Audio, Speech and Language Processing, IEEE Journal of Biomedical and Health Informatics, IEEE ACCESS, Journal of Biomedical Informatics
+  Briefings in bioinformatics,  BMC Supplements,  IEEE Transactions on Neural Networks and Learning Systems,  IEEE/ACM Transactions on Audio, Speech and Language Processing,  IEEE Journal of Biomedical and Health Informatics,  IEEE Access,  Journal of Biomedical Informatics
 
 - **Program Committee/Reviewer**:
 
-  2022 International Conference on Learning Representations (ICLR 2022)
+  ICLR'22, NeurIPS'21, ICLR'21, EMNLP'21, BIBM'21, CoNLL'21, PAKDD'21, DSAA'21, ICONIP'21, KSEM'21, APBC'21, AMIA'21, ICTAI'21, BIBM'20, ICONIP'20, DSAA'20, ICTAI'20, CoNLL'20, BIOKDD'20, CLNLP'20, DTMBio'20, DMBIH'20, FSDM'20, WI'19
+
+<!--   2022 International Conference on Learning Representations (ICLR 2022)
   
   Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021)
 
@@ -67,7 +69,7 @@ My current research interests include Natural Language Processing (especially Bi
   
   The 6th International Conference on Fuzzy Systems and Data Mining (FSDM 2020)
   
-  IEEE/WIC/ACM International Conference on Web Intelligence 2019
+  IEEE/WIC/ACM International Conference on Web Intelligence 2019 -->
 
 
 # Awards and Achievements
