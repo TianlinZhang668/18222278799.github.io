@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at the University of Manchester, advised by Prof. Sophia Ananiadou.
+I am a PhD student at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at the University of Manchester, advised by <a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Prof. Sophia Ananiadou</a>.
 In June 2020, I received my Master degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Prior to this, I received my BS degree from Nankai University in June 2017.
 
 My current research interests include Natural Language Processing (especially BioNLP), Artificial intelligence and so on. 🎉
@@ -30,6 +30,7 @@ My current research interests include Natural Language Processing (especially Bi
   ICLR'22, NeurIPS'21, ICLR'21, EMNLP'21, BIBM'21, CoNLL'21, PAKDD'21, DSAA'21, ICONIP'21, KSEM'21, APBC'21, AMIA'21, ICTAI'21, BIBM'20, ICONIP'20, DSAA'20, ICTAI'20, CoNLL'20, BIOKDD'20, CLNLP'20, DTMBio'20, DMBIH'20, FSDM'20, WI'19
   
 - **Organizer**:
+
   Co-organizing ICML 2021 workshop “Computational Approaches to Mental Health”
   
 
