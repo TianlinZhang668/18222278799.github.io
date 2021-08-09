@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a></u>
+You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
 
 ## 2021
 - **Zhang, T.**, Schoene, A. M., & Ananiadou, S. (2021). Automatic identification of suicide notes with a transformer-based deep learning model. Internet Interventions, 100422.
