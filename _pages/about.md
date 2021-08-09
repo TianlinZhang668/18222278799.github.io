@@ -13,6 +13,12 @@ In June 2020, I received my Master degree from the School of Computer Science an
 
 My current research interests include Natural Language Processing (especially BioNLP), Artificial intelligence and so on. 🎉
 
+# Recent News
+
+- 07/2021 Our <a href="https://sites.google.com/view/ca2mh/">workshop</a> was successfully held
+- 07/2021 Acceptance to the General Program as a student at MLSS 2021 Taipei <a href="http://ai.ntu.edu.tw/mlss2021/">website</a>
+- 06/2021 Our paper titled "Automatic identification of suicide notes with a transformer-based deep learning model" got accepted in Internet Interventions
+- 06/2021 Our paper titled "Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier" got accepted at CLEF-2021
 
 # Professional services
 - **Journal Reviewer**:
@@ -22,6 +28,10 @@ My current research interests include Natural Language Processing (especially Bi
 - **Program Committee/Reviewer**:
 
   ICLR'22, NeurIPS'21, ICLR'21, EMNLP'21, BIBM'21, CoNLL'21, PAKDD'21, DSAA'21, ICONIP'21, KSEM'21, APBC'21, AMIA'21, ICTAI'21, BIBM'20, ICONIP'20, DSAA'20, ICTAI'20, CoNLL'20, BIOKDD'20, CLNLP'20, DTMBio'20, DMBIH'20, FSDM'20, WI'19
+  
+- **Organizer**:
+  Co-organizing ICML 2021 workshop “Computational Approaches to Mental Health”
+  
 
 <!--   2022 International Conference on Learning Representations (ICLR 2022)
   
@@ -73,7 +83,6 @@ My current research interests include Natural Language Processing (especially Bi
 
 
 # Awards and Achievements
-- 2021 Acceptance to the General Program as a student at MLSS 2021 Taipei <a href="http://ai.ntu.edu.tw/mlss2021/">website</a>
 - 2021 I am co-organizing ICML 2021 workshop “Computational Approaches to Mental Health” <a href="https://sites.google.com/view/ca2mh/">website</a>
 - 2019 Beijing Merit Student Award
 - 2019 National Scholarship for Graduate Students
