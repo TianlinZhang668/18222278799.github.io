@@ -84,7 +84,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 
 # Awards and Achievements
-- 2021 I am co-organizing ICML 2021 workshop “<a href="https://sites.google.com/view/ca2mh/"> Computational Approaches to Mental Health </a>” 
+- 2021 I am co-organizing ICML 2021 workshop <a href="https://sites.google.com/view/ca2mh/"> Computational Approaches to Mental Health </a>
 - 2019 Beijing Merit Student Award
 - 2019 National Scholarship for Graduate Students
 - 2019 University of Chinese Academy of Sciences Merit Student Award
