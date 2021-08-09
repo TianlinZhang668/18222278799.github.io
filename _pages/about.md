@@ -17,8 +17,10 @@ My current research interests include Natural Language Processing (especially Bi
 
 - 07/2021 Our <a href="https://sites.google.com/view/ca2mh/">workshop</a> was successfully held
 - 07/2021 Acceptance to the General Program as a student at MLSS 2021 Taipei <a href="http://ai.ntu.edu.tw/mlss2021/">website</a>
+- 06/2021 Invited to serve as a reviewer of ICLR 2022
 - 06/2021 Our paper titled "Automatic identification of suicide notes with a transformer-based deep learning model" got accepted in Internet Interventions
 - 06/2021 Our paper titled "Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier" got accepted at CLEF-2021
+- 04/2021 Invited to serve as a reviewer of NeurIPS 2021
 
 # Professional services
 - **Journal Reviewer**:
