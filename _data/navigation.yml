@@ -21,5 +21,7 @@
 #   - title: "Guide"
 #     url: /markdown/
 main:
+  - title: "Publications"
+    url: /publications/
   - title: "Contact"
     url: /contact/
