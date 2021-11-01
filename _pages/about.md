@@ -15,6 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Recent News
 
+- 10/2021 We train and release masked language models for mental health - <a href="https://arxiv.org/abs/2110.15621">MentalBERT</a> 
 - 07/2021 Our <a href="https://sites.google.com/view/ca2mh/">workshop</a> was successfully held
 - 07/2021 Acceptance to the General Program as a student at MLSS 2021 Taipei <a href="http://ai.ntu.edu.tw/mlss2021/">website</a>
 - 06/2021 Invited to serve as a reviewer of ICLR 2022
