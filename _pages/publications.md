@@ -7,6 +7,7 @@ author_profile: true
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
 
 ## 2021
+- Ji, S., **Zhang, T.**, Ansari, L., Fu, J., Tiwari, P., & Cambria, E. (2021). MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare. arXiv preprint arXiv:2110.15621
 - **Zhang, T.**, Schoene, A. M., & Ananiadou, S. (2021). Automatic identification of suicide notes with a transformer-based deep learning model. Internet Interventions, 100422.
 - Alhuzali, H., **Zhang, T.** and Ananiadou, S., Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier., in: CLEF (Working Notes), In Press
 - **Zhang, T.**, Cui, Z., Leng, J., & Liu, Y. (2021, May). CSFQGD: Chinese Sentence Fill-in-the-blank Question Generation Dataset for Examination. In 2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (pp. 609-613). IEEE.
