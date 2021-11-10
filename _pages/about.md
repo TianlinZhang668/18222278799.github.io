@@ -26,7 +26,7 @@ My current research interests include Natural Language Processing (especially Bi
 # Professional services
 - **Journal Reviewer**:
 
-  Briefings in bioinformatics,  Bioinformatics,  BMC Supplements,  IEEE Transactions on Neural Networks and Learning Systems,  IEEE/ACM Transactions on Audio, Speech and Language Processing,  IEEE Journal of Biomedical and Health Informatics,  IEEE Access,  Journal of Biomedical Informatics, Journal of the American Medical Informatics Association
+  Briefings in bioinformatics,  Bioinformatics,  BMC Supplements,  IEEE Transactions on Neural Networks and Learning Systems,  IEEE/ACM Transactions on Audio, Speech and Language Processing,  IEEE Transactions on Computational Social Systems,  IEEE Journal of Biomedical and Health Informatics,  IEEE Access,  Journal of Biomedical Informatics, Journal of the American Medical Informatics Association
 
 - **Program Committee/Reviewer**:
 
