@@ -15,13 +15,14 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Recent News
 
+- 11/2021 Invited to serve as a reviewer for ACL Rolling Review
 - 10/2021 We train and release masked language models for mental health - <a href="https://arxiv.org/abs/2110.15621">MentalBERT</a> 
 - 07/2021 Our <a href="https://sites.google.com/view/ca2mh/">workshop</a> was successfully held
 - 07/2021 Acceptance to the General Program as a student at MLSS 2021 Taipei <a href="http://ai.ntu.edu.tw/mlss2021/">website</a>
-- 06/2021 Invited to serve as a reviewer of ICLR 2022
+- 06/2021 Invited to serve as a reviewer for ICLR 2022
 - 06/2021 Our paper titled "Automatic identification of suicide notes with a transformer-based deep learning model" got accepted in Internet Interventions
 - 06/2021 Our paper titled "Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier" got accepted at CLEF-2021
-- 04/2021 Invited to serve as a reviewer of NeurIPS 2021
+- 04/2021 Invited to serve as a reviewer for NeurIPS 2021
 
 # Professional services
 - **Journal Reviewer**:
@@ -30,7 +31,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 - **Program Committee/Reviewer**:
 
-  ICLR'22, AMIA'22, NeurIPS'21, ICLR'21, EMNLP'21, BIBM'21, CoNLL'21, PAKDD'21, DSAA'21, ICONIP'21, KSEM'21, APBC'21, AMIA'21, ICTAI'21, CIBB'21, BIBM'20, ICONIP'20, DSAA'20, ICTAI'20, CoNLL'20, BIOKDD'20, CLNLP'20, DTMBio'20, DMBIH'20, FSDM'20, WI'19
+  ACL'22, ICLR'22, AMIA'22, NeurIPS'21, ICLR'21, EMNLP'21, BIBM'21, CoNLL'21, PAKDD'21, DSAA'21, ICONIP'21, KSEM'21, APBC'21, AMIA'21, ICTAI'21, CIBB'21, BIBM'20, ICONIP'20, DSAA'20, ICTAI'20, CoNLL'20, BIOKDD'20, CLNLP'20, DTMBio'20, DMBIH'20, FSDM'20, WI'19
   
 - **Organizer**:
 
