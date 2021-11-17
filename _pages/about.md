@@ -27,21 +27,35 @@ My current research interests include Natural Language Processing (especially Bi
 # Professional services
 - **Journal Reviewer**:
 
-  Briefings in bioinformatics
-  Bioinformatics
-  IEEE Transactions on Neural Networks and Learning Systems
-  IEEE/ACM Transactions on Audio, Speech and Language Processing
-  IEEE Transactions on Computational Social Systems
-  IEEE Journal of Biomedical and Health Informatics
-  IEEE Access
-  Journal of Biomedical Informatics
-  Journal of the American Medical Informatics Association
-  Journal of Medical Internet Research
+  Briefings in bioinformatics<br/>
+  Bioinformatics<br/>
+  IEEE Transactions on Neural Networks and Learning Systems<br/>
+  IEEE/ACM Transactions on Audio, Speech and Language Processing<br/>
+  IEEE Transactions on Computational Social Systems<br/>
+  IEEE Journal of Biomedical and Health Informatics<br/>
+  IEEE Access<br/>
+  Journal of Biomedical Informatics<br/>
+  Journal of the American Medical Informatics Association<br/>
+  Journal of Medical Internet Research<br/>
 
 - **Program Committee/Reviewer**:
 
-  ACL<br/>
-  ACL'22, ICLR'22, AMIA'22, NeurIPS'21, ICLR'21, EMNLP'21, BIBM'21, CoNLL'21, PAKDD'21, DSAA'21, ICONIP'21, KSEM'21, APBC'21, AMIA'21, ICTAI'21, CIBB'21, BIBM'20, ICONIP'20, DSAA'20, ICTAI'20, CoNLL'20, BIOKDD'20, CLNLP'20, DTMBio'20, DMBIH'20, FSDM'20, WI'19
+  ACL'22<br/>
+  EMNLP'21<br/>
+  ICLR'22, ICLR'21<br/>
+  NeurIPS'21<br/>
+  BIBM'21, BIBM'20<br/>
+  CoNLL'21, CoNLL'20<br/>
+  PAKDD'22, PAKDD'21<br/>
+  AMIA'22, AMIA'21<br/>
+  DSAA'21, DSAA'20<br/>
+  ICONIP'21, ICONIP'20<br/>
+  KSEM'21<br/>
+  APBC'21<br/>
+  ICTAI'20<br/>
+  BIOKDD'20<br/>
+  DTMBio'20<br/>
+  DMBIH'20<br/>
   
 - **Organizer**:
 
