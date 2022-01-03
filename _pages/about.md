@@ -27,6 +27,7 @@ My current research interests include Natural Language Processing (especially Bi
 # Professional services
 - **Journal Reviewer**:
 
+  Artificial Intelligence Review<br/>
   Briefings in bioinformatics<br/>
   Bioinformatics<br/>
   IEEE Transactions on Neural Networks and Learning Systems<br/>
