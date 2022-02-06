@@ -30,6 +30,7 @@ My current research interests include Natural Language Processing (especially Bi
   Artificial Intelligence Review<br/>
   Briefings in bioinformatics<br/>
   Bioinformatics<br/>
+  Cognitive Computation<br/>
   IEEE Transactions on Neural Networks and Learning Systems<br/>
   IEEE/ACM Transactions on Audio, Speech and Language Processing<br/>
   IEEE Transactions on Computational Social Systems<br/>
