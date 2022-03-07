@@ -11,10 +11,11 @@ redirect_from:
 I am a second-year PhD student at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at the University of Manchester, advised by <a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Prof. Sophia Ananiadou</a>.
 In June 2020, I received my Master degree from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Prior to this, I received my BS degree from Nankai University in June 2017.
 
-My current research interests include Natural Language Processing (especially BioNLP), Artificial intelligence and so on. 🎉
+My current research interests include Natural Language Processing (especially BioNLP), Artificial Intelligence and so on. 🎉
 
 # Recent News
 
+- 02/2022 Our paper titled "Natural Language Processing Applied to Mental Illness Detection: A Narrative Review" got accepted in npj Digital Medicine
 - 11/2021 Invited to serve as a reviewer for ACL Rolling Review
 - 10/2021 We train and release masked language models for mental health - <a href="https://arxiv.org/abs/2110.15621">MentalBERT</a> 
 - 07/2021 Our <a href="https://sites.google.com/view/ca2mh/">workshop</a> was successfully held
