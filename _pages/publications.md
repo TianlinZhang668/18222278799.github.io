@@ -6,12 +6,13 @@ author_profile: true
 ---
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
 ## 2022
-- **Zhang, T.**, Schoene, A.M., Ji, S., Ananiadou, S. Natural language processing applied to mental illness detection: a narrative review. npj Digital Medcine 5, 46 (2022).
+- **Zhang, T.**, Schoene, A.M., Ji, S., Ananiadou, S. (2022). Natural language processing applied to mental illness detection: a narrative review. npj Digital Medcine 5, 46.
+- Shi, Y., Quan, P., **Zhang, T.**, & Niu, L. (2022). DREAM: Drug-drug interaction extraction with enhanced dependency graph and attention mechanism. Methods.
 
 ## 2021
 - Ji, S., **Zhang, T.**, Ansari, L., Fu, J., Tiwari, P., & Cambria, E. (2021). MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare. arXiv preprint arXiv:2110.15621
 - **Zhang, T.**, Schoene, A. M., & Ananiadou, S. (2021). Automatic identification of suicide notes with a transformer-based deep learning model. Internet Interventions, 100422.
-- Alhuzali, H., **Zhang, T.** and Ananiadou, S., Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier., in: CLEF (Working Notes), In Press
+- Alhuzali, H., **Zhang, T.**, & Ananiadou, S. (2021). Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier. In CLEF (Working Notes).
 - **Zhang, T.**, Cui, Z., Leng, J., & Liu, Y. (2021, May). CSFQGD: Chinese Sentence Fill-in-the-blank Question Generation Dataset for Examination. In 2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (pp. 609-613). IEEE.
 
 ## 2020
