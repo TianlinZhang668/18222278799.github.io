@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
+## 2022
+- **Zhang, T.**, Schoene, A.M., Ji, S., Ananiadou, S. Natural language processing applied to mental illness detection: a narrative review. npj Digital Medcine 5, 46 (2022).
 
 ## 2021
 - Ji, S., **Zhang, T.**, Ansari, L., Fu, J., Tiwari, P., & Cambria, E. (2021). MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare. arXiv preprint arXiv:2110.15621
