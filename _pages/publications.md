@@ -14,10 +14,10 @@ You can also find my papers on <a href="https://scholar.google.com/citations?use
 - **Zhang, T.**, Schoene, A. M., & Ananiadou, S. (2021). Automatic identification of suicide notes with a transformer-based deep learning model. Internet Interventions, 100422.
 - Alhuzali, H., **Zhang, T.**, & Ananiadou, S. (2021). Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier. In CLEF (Working Notes).
 - **Zhang, T.**, Cui, Z., Leng, J., & Liu, Y. (2021, May). CSFQGD: Chinese Sentence Fill-in-the-blank Question Generation Dataset for Examination. In 2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (pp. 609-613). IEEE.
+- Cui, Z., Leng, J., Liu, Y., **Zhang, T.**, Quan, P., & Zhao, W. SKNet: Detecting Rotated Ships as Keypoints in Optical Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing, 2021. (IF=5.855)
 
 ## 2020
 - **Zhang, T.**, Leng, J., & Liu, Y. (2020). Deep learning for drug–drug interaction extraction from the literature: a review. Briefings in bioinformatics, 21(5), 1609-1627.(IF=9.101)
-- Cui, Z., Leng, J., Liu, Y., **Zhang, T.**, Quan, P., & Zhao, W. SKNet: Detecting Rotated Ships as Keypoints in Optical Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing, 2021. (IF=5.855)
 - Liu, Y., Wang, W., **Zhang, T.**, & Cui, Z. (2020, November). AttentionFM: Incorporating Attention Mechanism and Factorization Machine for Credit Scoring. In 2020 International Conference on Data Mining Workshops (ICDMW) (pp. 356-361). IEEE. 
 
 ## 2019
