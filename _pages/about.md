@@ -35,6 +35,7 @@ My current research interests include Natural Language Processing (especially Bi
   IEEE Transactions on Neural Networks and Learning Systems<br/>
   IEEE/ACM Transactions on Audio, Speech and Language Processing<br/>
   IEEE Transactions on Computational Social Systems<br/>
+  IEEE Transactions on Geoscience and Remote Sensing<br/>
   IEEE Journal of Biomedical and Health Informatics<br/>
   IEEE Access<br/>
   Journal of Biomedical Informatics<br/>
