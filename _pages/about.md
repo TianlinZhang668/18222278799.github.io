@@ -38,6 +38,7 @@ My current research interests include Natural Language Processing (especially Bi
   IEEE Transactions on Geoscience and Remote Sensing<br/>
   IEEE Journal of Biomedical and Health Informatics<br/>
   IEEE Access<br/>
+  Information Processing & Management<br/>
   Journal of Biomedical Informatics<br/>
   Journal of the American Medical Informatics Association<br/>
   Journal of Medical Internet Research<br/>
