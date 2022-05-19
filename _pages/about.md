@@ -119,8 +119,8 @@ My current research interests include Natural Language Processing (especially Bi
   IEEE/WIC/ACM International Conference on Web Intelligence 2019 -->
 
 # Teaching
-  Teaching Assistant: Manchester-COMP24112 Machine Learning
-  Teaching Assistant: Manchester-COMP61332 Text Mining
+- Teaching Assistant: Manchester-COMP24112 Machine Learning
+- Teaching Assistant: Manchester-COMP61332 Text Mining
 
 # Awards and Achievements
 - 2019 Beijing Merit Student Award
