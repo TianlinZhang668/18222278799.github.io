@@ -15,6 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Recent News
 
+- 05/2022 Application for <a hred="https://www.oxfordml.school/">OxML School 2022</a> has been successful.
 - 04/2022 Our paper titled "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection on Social Media" got accepted in Information Processing & Management
 - 02/2022 Our paper titled "Natural Language Processing Applied to Mental Illness Detection: A Narrative Review" got accepted in npj Digital Medicine
 - 11/2021 Invited to serve as a reviewer for ACL Rolling Review
