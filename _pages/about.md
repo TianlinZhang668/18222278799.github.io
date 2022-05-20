@@ -20,7 +20,7 @@ My current research interests include Natural Language Processing (especially Bi
 - 02/2022 Our paper titled "Natural Language Processing Applied to Mental Illness Detection: A Narrative Review" got accepted in npj Digital Medicine
 - 11/2021 Invited to serve as a reviewer for ACL Rolling Review
 - 10/2021 We train and release masked language models for mental health - <a href="https://arxiv.org/abs/2110.15621">MentalBERT</a> 
-- 07/2021 Our <a href="https://sites.google.com/view/ca2mh/">workshop</a> was successfully held
+- 07/2021 Our workshop <a href="https://sites.google.com/view/ca2mh/">Computational Approaches to Mental Health</a> was successfully held
 - 07/2021 Acceptance to the General Program as a student at MLSS 2021 Taipei <a href="http://ai.ntu.edu.tw/mlss2021/">website</a>
 - 06/2021 Invited to serve as a reviewer for ICLR 2022
 - 06/2021 Our paper titled "Automatic identification of suicide notes with a transformer-based deep learning model" got accepted in Internet Interventions
