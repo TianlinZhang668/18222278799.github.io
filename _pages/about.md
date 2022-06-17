@@ -15,6 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Recent News
 
+- 06/2022 Invited to serve as a program committee for CoNLL'22
 - 06/2022 Invited to serve as a reviewer for COLING 2022
 - 05/2022 Application for <a href="https://www.oxfordml.school/">OxML School 2022</a> has been successful.
 - 04/2022 Our paper titled "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection on Social Media" got accepted in Information Processing & Management
@@ -55,7 +56,7 @@ My current research interests include Natural Language Processing (especially Bi
   ICLR'22, ICLR'21<br/>
   EMNLP'21<br/>
   BIBM'22, BIBM'21, BIBM'20<br/>
-  CoNLL'21, CoNLL'20<br/>
+  CoNLL'22, CoNLL'21, CoNLL'20<br/>
   PAKDD'22, PAKDD'21<br/>
   AMIA'22, AMIA'21<br/>
   DSAA'22, DSAA'21, DSAA'20<br/>
