@@ -18,6 +18,7 @@ My current research interests include Natural Language Processing (especially Bi
 - 06/2022 Invited to serve as a reviewer for COLING 2022
 - 05/2022 Application for <a href="https://www.oxfordml.school/">OxML School 2022</a> has been successful.
 - 04/2022 Our paper titled "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection on Social Media" got accepted in Information Processing & Management
+- 04/2022 Invited to serve as a reviewer for NeurIPS 2022
 - 02/2022 Our paper titled "Natural Language Processing Applied to Mental Illness Detection: A Narrative Review" got accepted in npj Digital Medicine
 - 11/2021 Invited to serve as a reviewer for ACL Rolling Review
 - 10/2021 We train and release masked language models for mental health - <a href="https://arxiv.org/abs/2110.15621">MentalBERT</a> 
@@ -26,7 +27,6 @@ My current research interests include Natural Language Processing (especially Bi
 - 06/2021 Invited to serve as a reviewer for ICLR 2022
 - 06/2021 Our paper titled "Automatic identification of suicide notes with a transformer-based deep learning model" got accepted in Internet Interventions
 - 06/2021 Our paper titled "Predicting Sign of Depression via Using Frozen Pre-trained Models and Random Forest Classifier" got accepted at CLEF-2021
-- 04/2021 Invited to serve as a reviewer for NeurIPS 2021
 
 # Professional services
 - **Journal Reviewer**:
