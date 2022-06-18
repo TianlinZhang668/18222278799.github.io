@@ -62,9 +62,9 @@ My current research interests include Natural Language Processing (especially Bi
   DSAA'22, DSAA'21, DSAA'20<br/>
   ICANN'22<br/>
   ICONIP'22, ICONIP'21, ICONIP'20<br/>
+  ICTAI'22, ICTAI'21, ICTAI'20<br/>
   KSEM'21<br/>
   APBC'21<br/>
-  ICTAI'22, ICTAI'20<br/>
   BIOKDD'20<br/>
   DTMBio'20<br/>
   DMBIH'20<br/>
