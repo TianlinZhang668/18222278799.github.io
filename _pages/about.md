@@ -46,6 +46,7 @@ My current research interests include Natural Language Processing (especially Bi
   Journal of Biomedical Informatics<br/>
   Journal of the American Medical Informatics Association<br/>
   Journal of Medical Internet Research<br/>
+  Neurocomputing<br/>
 
 - **Program Committee/Reviewer**:
 
