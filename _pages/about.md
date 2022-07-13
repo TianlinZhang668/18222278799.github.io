@@ -15,6 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Recent News
 
+- 07/2022 Awarded best reviewer (Top 10%) at ICML 2022 and received a free registration
 - 06/2022 Invited to serve as a program committee for CoNLL'22
 - 06/2022 Invited to serve as a reviewer for COLING 2022
 - 05/2022 Application for <a href="https://www.oxfordml.school/">OxML School 2022</a> has been successful.
@@ -128,6 +129,7 @@ My current research interests include Natural Language Processing (especially Bi
 - Teaching Assistant: Manchester-COMP61332 Text Mining
 
 # Awards and Achievements
+- 2022 Best Reviewer (Top 10%) at ICML 2022
 - 2019 Beijing Merit Student Award
 - 2019 National Scholarship for Graduate Students
 - 2019 University of Chinese Academy of Sciences Merit Student Award
