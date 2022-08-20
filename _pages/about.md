@@ -11,7 +11,7 @@ redirect_from:
 I am a second-year PhD student at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at the University of Manchester, advised by <a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Prof. Sophia Ananiadou</a>.
 In June 2020, I received my Master degree from <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>. Prior to this, I received my BS degree from <a href="https://en.nankai.edu.cn">Nankai University</a> in June 2017.
 
-My current research interests include Natural Language Processing (especially BioNLP), Artificial Intelligence and so on. 🎉
+My current research interests include Natural Language Processing (especially BioNLP), Affective Computing and so on. 🎉
 
 # Recent News
 
