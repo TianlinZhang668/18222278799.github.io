@@ -131,7 +131,7 @@ My current research interests include Natural Language Processing (especially Bi
 - Teaching Assistant: Manchester-COMP61332 Text Mining
 
 # Awards and Achievements
-- 2022 Best Reviewer (Top 10%) at ICML 2022
+- 2022 ICML Outstanding Reviewer Award (Top 10%)
 - 2019 Beijing Merit Student Award
 - 2019 National Scholarship for Graduate Students
 - 2019 University of Chinese Academy of Sciences Merit Student Award
