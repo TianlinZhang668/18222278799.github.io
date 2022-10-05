@@ -6,6 +6,7 @@ author_profile: true
 ---
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
 ## 2022
+- Alhuzali, H., **Zhang, T. (Co-First Author)**, Ananiadou, S. (2022). Emotions and Topics Expressed on Twitter During the COVID-19 Pandemic in the United Kingdom: Comparative Geolocation and Text Mining Analysis. Journal of Medical Internet Research 2022;24(10):e40323
 - Yang, K., **Zhang, T.**, & Ananiadou, S. (2022). A mental state Knowledge–aware and Contrastive Network for early stress and depression detection on social media. Information Processing & Management, 59(4), 102961.
 - **Zhang, T.**, Schoene, A.M., Ji, S., Ananiadou, S. (2022). Natural language processing applied to mental illness detection: a narrative review. npj Digital Medcine 5, 46.
 - Shi, Y., Quan, P., **Zhang, T.**, & Niu, L. (2022). DREAM: Drug-drug interaction extraction with enhanced dependency graph and attention mechanism. Methods.
