@@ -15,7 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Recent News
 
-- 08/2022 Our paper titled "A comparative geolocation and text mining analysis of emotions and topics during the COVID-19 Pandemic in the UK" got accepted in Journal of Medical Internet Research
+- 08/2022 Our paper titled "Emotions and topics expressed on Twitter during the COVID-19 pandemic in the United Kingdom: comparative geolocation and text mining analysis" got accepted in Journal of Medical Internet Research
 - 07/2022 Invited to serve as a reviewer for ICLR'23
 - 07/2022 Awarded best reviewer (Top 10%) at ICML 2022 and received a free registration
 - 06/2022 Invited to serve as a reviewer for COLING 2022
