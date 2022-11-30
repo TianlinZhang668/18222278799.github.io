@@ -11,10 +11,11 @@ redirect_from:
 I am a second-year PhD student at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at the University of Manchester, advised by Prof.<a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof.<a href="https://www.airc.aist.go.jp/en/intro/">Jun'ichi Tsujii</a>.
 In June 2020, I received my Master degree from <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>. Prior to this, I received my BS degree from <a href="https://en.nankai.edu.cn">Nankai University</a> in June 2017.
 
-My current research interests include Natural Language Processing (especially BioNLP), Affective Computing and so on. 🎉
+My current research interests include Natural Language Processing (especially BioNLP), Affective Computing, Mental Health Application and so on. 🎉
 
 # Recent News
 
+- 11/2022 Our paper titled "Emotion fusion for mental illness detection from social media: A survey" got accepted in Information Fusion
 - 08/2022 Our paper titled "Emotions and topics expressed on Twitter during the COVID-19 pandemic in the United Kingdom: comparative geolocation and text mining analysis" got accepted in Journal of Medical Internet Research
 - 07/2022 Invited to serve as a reviewer for ICLR'23
 - 07/2022 Awarded best reviewer (Top 10%) at ICML 2022 and received a free registration
@@ -71,8 +72,6 @@ My current research interests include Natural Language Processing (especially Bi
   KSEM'21<br/>
   APBC'21<br/>
   BIOKDD'20<br/>
-  DTMBio'20<br/>
-  DMBIH'20<br/>
   
 - **Organizer**:
 
