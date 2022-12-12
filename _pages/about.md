@@ -15,6 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Recent News
 
+- 12/2022 Invited to serve as a program committee member for ACL'23
 - 11/2022 Our paper titled "Emotion fusion for mental illness detection from social media: A survey" got accepted in Information Fusion
 - 08/2022 Our paper titled "Emotions and topics expressed on Twitter during the COVID-19 pandemic in the United Kingdom: comparative geolocation and text mining analysis" got accepted in Journal of Medical Internet Research
 - 07/2022 Invited to serve as a reviewer for ICLR'23
@@ -55,8 +56,8 @@ My current research interests include Natural Language Processing (especially Bi
 
 - **Program Committee/Reviewer**:
 
+  ACL'23 ACL'22<br/>
   ICML'22<br/>
-  ACL'22<br/>
   COLING'22<br/>
   NeurIPS'22, NeurIPS'21<br/>
   ICLR'23, ICLR'22, ICLR'21<br/>
