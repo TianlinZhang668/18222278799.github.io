@@ -56,7 +56,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 - **Program Committee/Reviewer**:
 
-  ACL'23 ACL'22<br/>
+  ACL'23, ACL'22<br/>
   ICML'22<br/>
   COLING'22<br/>
   NeurIPS'22, NeurIPS'21<br/>
