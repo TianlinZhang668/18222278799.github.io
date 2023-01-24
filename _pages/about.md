@@ -55,6 +55,7 @@ My current research interests include Natural Language Processing (especially Bi
   Journal of Medical Internet Research<br/>
   Neural Networks<br/>
   Neurocomputing<br/>
+  npj Mental Health Research<br/>
 
 - **Program Committee/Reviewer**:
 
