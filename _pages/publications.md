@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
+## 2023
+- Yang, K., **Zhang, T.**, Alhuzali, H., Ananiadou, S. (2023). "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations". IEEE Transactions on Affective Computing (IF=13.99)
+
 ## 2022
 - **Zhang, T.**, Yang, K., Ji, S. & Ananiadou, S. (2022). Emotion fusion for mental illness detection from social media: A survey. Information Fusion (IF=17.564)
 - Alhuzali, H., **Zhang, T. (Co-First Author)**, Ananiadou, S. (2022). Emotions and Topics Expressed on Twitter During the COVID-19 Pandemic in the United Kingdom: Comparative Geolocation and Text Mining Analysis. Journal of Medical Internet Research 2022;24(10):e40323 (IF=7.076)
