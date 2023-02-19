@@ -83,7 +83,7 @@ My current research interests include Natural Language Processing (especially Bi
   
 - **Organizer**:
 
-  Co-organizing ICML 2021 workshop “Computational Approaches to Mental Health”
+  Co-organizing ICML 2021 workshop <a href="https://sites.google.com/view/ca2mh/">Computational Approaches to Mental Health</a>
   
 
 <!--   2022 International Conference on Learning Representations (ICLR 2022)
@@ -135,8 +135,11 @@ My current research interests include Natural Language Processing (especially Bi
   IEEE/WIC/ACM International Conference on Web Intelligence 2019 -->
 
 # Teaching
+- Research Assistant: COVID-19 research funded by Alan Turing Institute of AI
+- Teaching Assistant: Manchester-COMP13212 Data Science
 - Teaching Assistant: Manchester-COMP24112 Machine Learning
 - Teaching Assistant: Manchester-COMP61332 Text Mining
+- Teaching Assistant: Manchester-COMP66090 Masters Project
 
 # Awards and Achievements
 - 2022 ICML Outstanding Reviewer Award (Top 10%)
