@@ -42,7 +42,6 @@ My current research interests include Natural Language Processing (especially Bi
   Briefings in bioinformatics<br/>
   Bioinformatics<br/>
   Cognitive Computation<br/>
-  Computers in Biology and Medicine<br/>
   Computers in Human Behavior<br/>
   Engineering Applications of Artificial Intelligence<br/>
   Expert Systems With Applications<br/>
@@ -55,6 +54,7 @@ My current research interests include Natural Language Processing (especially Bi
   IEEE Access<br/>
   International Journal of Medical Informatics<br/>
   Information Processing & Management<br/>
+  Information Science<br/>
   Journal of the American Medical Informatics Association<br/>
   Journal of Medical Internet Research<br/>
   Neural Networks<br/>
