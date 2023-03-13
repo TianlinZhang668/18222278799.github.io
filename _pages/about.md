@@ -42,6 +42,7 @@ My current research interests include Natural Language Processing (especially Bi
   Briefings in bioinformatics<br/>
   Bioinformatics<br/>
   Cognitive Computation<br/>
+  Computers in Biology and Medicine<br/>
   Computers in Human Behavior<br/>
   Engineering Applications of Artificial Intelligence<br/>
   Expert Systems With Applications<br/>
