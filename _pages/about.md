@@ -15,6 +15,7 @@ My current research interests include Natural Language Processing (especially Bi
 
 # Recent News
 
+- 03/2023 Invited to serve as a reviewer for NeurIPS 2023
 - 02/2023 Our paper titled "Cluster-level contrastive learning for emotion recognition in conversations" got accepted in IEEE Transactions on Affective Computing
 - 12/2022 Invited to serve as a program committee member for ACL'23
 - 11/2022 Our paper titled "Emotion fusion for mental illness detection from social media: A survey" got accepted in Information Fusion
