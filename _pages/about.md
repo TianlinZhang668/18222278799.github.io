@@ -13,6 +13,8 @@ In June 2020, I received my Master degree from <a href="https://english.ucas.ac.
 
 My current research interests include Natural Language Processing (especially BioNLP), Affective Computing, Mental Health Application and so on. 🎉
 
+If you are interest in my works, I really welcome all kinds of academic discussions, or just simply making friends. 😄
+
 # Recent News
 
 - 03/2023 Invited to serve as a reviewer for NeurIPS 2023
