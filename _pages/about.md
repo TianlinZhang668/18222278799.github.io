@@ -79,7 +79,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   PAKDD'23, PAKDD'22, PAKDD'21<br/>
   AMIA'22, AMIA'21<br/>
   DSAA'23, DSAA'22, DSAA'21, DSAA'20<br/>
-  ICANN'22<br/>
+  ICANN'23, ICANN'22<br/>
   ICONIP'22, ICONIP'21, ICONIP'20<br/>
   ICTAI'22, ICTAI'21, ICTAI'20<br/>
   KSEM'21<br/>
