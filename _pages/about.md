@@ -57,6 +57,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   IEEE Journal of Biomedical and Health Informatics<br/>
   IEEE Access<br/>
   International Journal of Medical Informatics<br/>
+  Information Fusion<br/>
   Information Processing & Management<br/>
   Information Science<br/>
   Journal of the American Medical Informatics Association<br/>
