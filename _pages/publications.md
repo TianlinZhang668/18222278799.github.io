@@ -6,7 +6,9 @@ author_profile: true
 ---
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
 ## 2023
-- Yang, K., **Zhang, T.**, Alhuzali, H., Ananiadou, S. (2023). "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations". IEEE Transactions on Affective Computing (IF=13.99)
+- **Zhang, T.**, Yang, K., Alhuzali, H., Liu, B., Ananiadou, S. (2023). PHQ-aware depressive symptoms identification with similarity contrastive learning on social media. Information Processing & Management (IF=7.466)
+- Yang, K., **Zhang, T.**, Ananiadou, S. (2023). Disentangled Variational Autoencoder for Emotion Recognition in Conversations. IEEE Transactions on Affective Computing (IF=13.99) 
+- Yang, K., **Zhang, T.**, Alhuzali, H., Ananiadou, S. (2023). Cluster-Level Contrastive Learning for Emotion Recognition in Conversations. IEEE Transactions on Affective Computing (IF=13.99)
 
 ## 2022
 - **Zhang, T.**, Yang, K., Ji, S. & Ananiadou, S. (2022). Emotion fusion for mental illness detection from social media: A survey. Information Fusion (IF=17.564)
