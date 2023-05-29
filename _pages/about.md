@@ -18,6 +18,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 # Recent News
 
 - 05/2023 Our paper titled "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media" got accepted in Information Processing & Management
+- 05/2023 Our paper titled "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media" got accepted in BioNLP@ACL 2023
 - 05/2023 Our paper titled "Disentangled variational autoencoder for emotion recognition in conversations" got accepted in IEEE Transactions on Affective Computing
 - 03/2023 Invited to serve as a reviewer for NeurIPS 2023
 - 02/2023 Our paper titled "Cluster-level contrastive learning for emotion recognition in conversations" got accepted in IEEE Transactions on Affective Computing
