@@ -17,6 +17,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 
 # Recent News
 
+- 06/2023 Invited to serve as a reviewer for EMNLP 2023
 - 05/2023 Our paper titled "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media" got accepted in Information Processing & Management
 - 05/2023 Our paper titled "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media" got accepted in BioNLP@ACL 2023
 - 05/2023 Our paper titled "Disentangled variational autoencoder for emotion recognition in conversations" got accepted in IEEE Transactions on Affective Computing
@@ -77,7 +78,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
   ICLR'23, ICLR'22, ICLR'21<br/>
   ECML/PKDD'23<br/>
-  EMNLP'21<br/>
+  EMNLP'23, EMNLP'21<br/>
   BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
   CoNLL'22, CoNLL'21, CoNLL'20<br/>
   PAKDD'23, PAKDD'22, PAKDD'21<br/>
