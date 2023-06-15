@@ -66,6 +66,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   Information Science<br/>
   Journal of the American Medical Informatics Association<br/>
   Journal of Medical Internet Research<br/>
+  Knowledge-Based Systems<br/>
   Neural Networks<br/>
   Neurocomputing<br/>
   npj Mental Health Research<br/>
