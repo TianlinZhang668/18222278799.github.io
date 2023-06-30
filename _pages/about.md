@@ -11,12 +11,13 @@ redirect_from:
 I am a third-year PhD student at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a>, advised by Prof.<a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof.<a href="https://www.airc.aist.go.jp/en/intro/">Jun'ichi Tsujii</a>.
 In June 2020, I received my Master degree from <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>. Prior to this, I received my BS degree from <a href="https://en.nankai.edu.cn">Nankai University</a> in June 2017.
 
-My current research interests include Natural Language Processing (especially BioNLP), Affective Computing, Mental Health Application and so on. 🎉
+My current research interests include Natural Language Processing (especially BioNLP), Affective Computing, Mental Health Application and so on. 
 
 If you are interest in my works, I really welcome all kinds of academic discussions, or just simply making friends. 😄
 
 # Recent News
 
+- 07/2023 Awarded <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad">Chinese Government Award for Outstanding Self-financed Students Abroad</a> 🎉
 - 06/2023 Invited to serve as a reviewer for EMNLP 2023
 - 05/2023 Our paper titled "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media" got accepted in Information Processing & Management
 - 05/2023 Our paper titled "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media" got accepted in BioNLP@ACL 2023
@@ -153,6 +154,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 - Teaching Assistant: Manchester-COMP66090 Masters Project
 
 # Awards and Achievements
+- 2023 Chinese Government Award for Outstanding Self-financed Students Abroad
 - 2022 ICML Outstanding Reviewer Award (Top 10%)
 - 2019 Beijing Merit Student Award
 - 2019 National Scholarship for Graduate Students
