@@ -88,7 +88,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   DSAA'23, DSAA'22, DSAA'21, DSAA'20<br/>
   ICANN'23, ICANN'22<br/>
   ICONIP'22, ICONIP'21, ICONIP'20<br/>
-  ICTAI'22, ICTAI'21, ICTAI'20<br/>
+  ICTAI'23, ICTAI'22, ICTAI'21, ICTAI'20<br/>
   KSEM'21<br/>
   APBC'21<br/>
   BIOKDD'20<br/>
