@@ -61,10 +61,12 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   IEEE Transactions on Geoscience and Remote Sensing<br/>
   IEEE Journal of Biomedical and Health Informatics<br/>
   IEEE Access<br/>
-  International Journal of Medical Informatics<br/>
   Information Fusion<br/>
+  Information & Management<br/>
   Information Processing & Management<br/>
   Information Science<br/>
+  International Journal of Medical Informatics<br/>
+  Internet Interventions<br/>
   Journal of the American Medical Informatics Association<br/>
   Journal of Medical Internet Research<br/>
   Knowledge-Based Systems<br/>
