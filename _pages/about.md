@@ -17,6 +17,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 
 # Recent News
 
+- 08/2023 Our paper titled "A Bipartite Graph is all we need for enhancing emotional reasoning with commonsense knowledge" got accepted in CIKM 2023
 - 07/2023 Awarded <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad">Chinese Government Award for Outstanding Self-financed Students Abroad</a> (600 young talents across the world) 🎉
 - 06/2023 Invited to serve as a reviewer for EMNLP 2023
 - 05/2023 Our paper titled "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media" got accepted in Information Processing & Management
