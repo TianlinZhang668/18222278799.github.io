@@ -48,8 +48,9 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 
   Artificial Intelligence In Medicine<br/>
   Artificial Intelligence Review<br/>
-  Briefings in bioinformatics<br/>
+  Briefings in Bioinformatics<br/>
   Bioinformatics<br/>
+  Biomedical Signal Processing and Control<br/>
   Cognitive Computation<br/>
   Computers in Biology and Medicine<br/>
   Computers in Human Behavior<br/>
