@@ -17,6 +17,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 
 # Recent News
 
+- 08/2023 Invited to serve as a reviewer for ICLR 2024
 - 08/2023 Invited to join the Program Committee of EMNLP 2023 Industry Track and Demos Track
 - 08/2023 Our paper titled "A Bipartite Graph is all we need for enhancing emotional reasoning with commonsense knowledge" got accepted in CIKM 2023
 - 07/2023 Awarded <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad">Chinese Government Award for Outstanding Self-financed Students Abroad</a> (600 young talents across the world) 🎉
@@ -29,7 +30,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 - 12/2022 Invited to serve as a program committee member for ACL'23
 - 11/2022 Our paper titled "Emotion fusion for mental illness detection from social media: A survey" got accepted in Information Fusion
 - 08/2022 Our paper titled "Emotions and topics expressed on Twitter during the COVID-19 pandemic in the United Kingdom: comparative geolocation and text mining analysis" got accepted in Journal of Medical Internet Research
-- 07/2022 Invited to serve as a reviewer for ICLR'23
+- 07/2022 Invited to serve as a reviewer for ICLR 2023
 - 07/2022 Awarded best reviewer (Top 10%) at ICML 2022 and received a free registration
 - 06/2022 Invited to serve as a reviewer for COLING 2022
 - 05/2022 Application for <a href="https://www.oxfordml.school/">OxML School 2022</a> has been successful.
@@ -84,7 +85,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   ICML'22<br/>
   COLING'22<br/>
   NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
-  ICLR'23, ICLR'22, ICLR'21<br/>
+  ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
   ECML/PKDD'23<br/>
   EMNLP'23, EMNLP'21<br/>
   BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
