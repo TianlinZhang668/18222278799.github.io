@@ -67,7 +67,6 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   IEEE Transactions on Computational Social Systems<br/>
   IEEE Transactions on Geoscience and Remote Sensing<br/>
   IEEE Journal of Biomedical and Health Informatics<br/>
-  IEEE Access<br/>
   Information Fusion<br/>
   Information & Management<br/>
   Information Processing & Management<br/>
