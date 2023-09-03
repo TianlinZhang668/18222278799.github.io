@@ -50,6 +50,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 - **Journal Reviewer**:
 
   ACM Computing Surveys<br/>
+  AI Open<br/>
   Artificial Intelligence In Medicine<br/>
   Artificial Intelligence Review<br/>
   Briefings in Bioinformatics<br/>
