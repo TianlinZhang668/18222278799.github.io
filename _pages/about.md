@@ -65,6 +65,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   IEEE Transactions on Neural Networks and Learning Systems<br/>
   IEEE/ACM Transactions on Audio, Speech and Language Processing<br/>
   IEEE Transactions on Computational Social Systems<br/>
+  IEEE Transactions on Emerging Topics in Computational Intelligence<br/>
   IEEE Transactions on Geoscience and Remote Sensing<br/>
   IEEE Journal of Biomedical and Health Informatics<br/>
   Information Fusion<br/>
