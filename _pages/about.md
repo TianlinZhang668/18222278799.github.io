@@ -90,6 +90,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
   ECML/PKDD'23<br/>
   EMNLP'23, EMNLP'21<br/>
+  ICWSM'24<br/>
   BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
   CoNLL'23, CoNLL'22, CoNLL'21, CoNLL'20<br/>
   PAKDD'24, PAKDD'23, PAKDD'22, PAKDD'21<br/>
