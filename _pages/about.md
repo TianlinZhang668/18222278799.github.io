@@ -17,7 +17,8 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 
 # Recent News
 
-- 10/2023 Our paper titled "Towards Interpretable Mental Health Analysis with Large Language Models" got accepted in EMNLP 2023 main conference 
+- 10/2023 Our paper titled "Towards Interpretable Mental Health Analysis with Large Language Models" got accepted in EMNLP 2023 main conference
+- 09/2023 Welcome to follow our project <a href="https://github.com/SteveKGYang/MentalLLaMA">MentaLLaMa</a>, "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models"
 - 08/2023 Invited to serve on the Program Committee for LREC-COLING 2024
 - 08/2023 Invited to serve as a reviewer for ICLR 2024
 - 08/2023 Invited to join the Program Committee of EMNLP 2023 Industry Track and Demos Track
