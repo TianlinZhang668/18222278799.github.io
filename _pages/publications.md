@@ -6,7 +6,7 @@ author_profile: true
 ---
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
 ## 2023
-- Yang, K., Ji, S., **Zhang, T. (Co-Sencond Author)**, Xie, Q., Kuang, Zi., Ananiadou, S. (2023). Towards Interpretable Mental Health Analysis with Large Language Models.  EMNLP 2023
+- Yang, K., Ji, S., **Zhang, T. (Co-Second Author)**, Xie, Q., Kuang, Zi., Ananiadou, S. (2023). Towards Interpretable Mental Health Analysis with Large Language Models.  EMNLP 2023
 - Yang, K., **Zhang, T.**, Ji, S. & Ananiadou, S. (2023). A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge. CIKM 2023
 - **Zhang, T.**, Yang, K., Ananiadou, S. (2023). Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media. BioNLP@ACL 2023
 - **Zhang, T.**, Yang, K., Alhuzali, H., Liu, B., Ananiadou, S. (2023). PHQ-aware depressive symptoms identification with similarity contrastive learning on social media. Information Processing & Management (IF=7.466)
