@@ -17,6 +17,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 
 # Recent News
 
+- 10/2023 Our review paper "Natural Language Processing Applied to Mental Illness Detection: A Narrative Review" were mentioned and cited in <a href="https://time.com/6320378/ai-therapy-chatbots/">TIME Magzine</a> and <a href="https://www.miragenews.com/how-ai-could-transform-future-of-psychology-1097721/"> Mirage News </a>
 - 10/2023 Our paper titled "Towards Interpretable Mental Health Analysis with Large Language Models" got accepted in EMNLP 2023 main conference
 - 09/2023 Welcome to follow our project <a href="https://github.com/SteveKGYang/MentalLLaMA">MentaLLaMa</a>, "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models"
 - 08/2023 Invited to serve on the Program Committee for LREC-COLING 2024
