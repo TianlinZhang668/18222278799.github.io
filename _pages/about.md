@@ -90,6 +90,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
   ICML'22<br/>
   NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
   ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
+  CHI'24<br/>
   ECML/PKDD'23<br/>
   LREC-COLING'24 COLING'22<br/>
   EMNLP'23, EMNLP'21<br/>
