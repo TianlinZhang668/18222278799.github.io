@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
+## 2024
+- Yang, K., **Zhang, T.**, Kuang, Zi., Xie, Q., Ananiadou, S. (2023). MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models. In Web Conference 2024 Web4Good
+
 ## 2023
 - Yang, K., Ji, S., **Zhang, T. (Co-Second Author)**, Xie, Q., Kuang, Zi., Ananiadou, S. (2023). Towards Interpretable Mental Health Analysis with Large Language Models.  EMNLP 2023
 - Yang, K., **Zhang, T.**, Ji, S. & Ananiadou, S. (2023). A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge. CIKM 2023
