@@ -17,6 +17,7 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 
 # Recent News
 
+- 02/2024 Our paper titled "Emotion Detection for Misinformation: A Review" got accepted in Information Fusion
 - 01/2024 Our paper titled "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models" got accepted in WWW 2024 Web4Good
 - 12/2023 I’ve successfully defended my PhD viva
 - 12/2023 Invited to serve a reviewer for ICML 2024
