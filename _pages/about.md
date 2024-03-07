@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a>, advised by Prof.<a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof.<a href="https://www.airc.aist.go.jp/en/intro/">Jun'ichi Tsujii</a>.
+I get a PhD degree at the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a>, advised by Prof.<a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof.<a href="https://www.airc.aist.go.jp/en/intro/">Jun'ichi Tsujii</a>.
 In June 2020, I received my Master degree from <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>. Prior to this, I received my BS degree from <a href="https://en.nankai.edu.cn">Nankai University</a> in June 2017.
 
 My current research interests include Natural Language Processing (especially BioNLP), Affective Computing, Mental Health Application and so on. 
@@ -91,13 +91,13 @@ If you are interest in my works, I really welcome all kinds of academic discussi
 
 - **Program Committee/Reviewer**:
 
-  ACL'23, ACL'22<br/>
+  ACL'24, ACL'23, ACL'22<br/>
   ICML'24, ICML'22<br/>
   NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
   ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
   CHI'24<br/>
-  ECML/PKDD'23<br/>
-  LREC-COLING'24 COLING'22<br/>
+  ECML/PKDD'24, ECML/PKDD'23<br/>
+  LREC-COLING'24, COLING'22<br/>
   EMNLP'23, EMNLP'21<br/>
   ICWSM'24<br/>
   BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
