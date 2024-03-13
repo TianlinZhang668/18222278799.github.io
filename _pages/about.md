@@ -17,6 +17,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
 
+- 03/2024 Invited to serve a reviewer for COLM.
 - 02/2024 Our paper titled "Emotion Detection for Misinformation: A Review" got accepted in Information Fusion
 - 01/2024 Our paper titled "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models" got accepted in WWW 2024 Web4Good
 - 12/2023 I’ve successfully defended my PhD viva
