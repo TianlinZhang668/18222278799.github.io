@@ -17,7 +17,8 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
 
-- 03/2024 Invited to serve a reviewer for COLM.
+- 03/2024 Invited to serve an editor for Journal Plos One (If=3.7)
+- 03/2024 Invited to serve a reviewer for COLM
 - 02/2024 Our paper titled "Emotion Detection for Misinformation: A Review" got accepted in Information Fusion
 - 01/2024 Our paper titled "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models" got accepted in WWW 2024 Web4Good
 - 12/2023 I’ve successfully defended my PhD viva
@@ -89,6 +90,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   Neural Networks<br/>
   Neurocomputing<br/>
   npj Mental Health Research<br/>
+  Plos One (Editor)<br/>
 
 - **Program Committee/Reviewer**:
 
@@ -101,6 +103,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   LREC-COLING'24, COLING'22<br/>
   EMNLP'23, EMNLP'21<br/>
   ICWSM'24<br/>
+  COLM'24<br/>
   BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
   CoNLL'23, CoNLL'22, CoNLL'21, CoNLL'20<br/>
   PAKDD'24, PAKDD'23, PAKDD'22, PAKDD'21<br/>
