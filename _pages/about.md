@@ -62,9 +62,10 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   AI Open<br/>
   Artificial Intelligence In Medicine<br/>
   Artificial Intelligence Review<br/>
-  Briefings in Bioinformatics<br/>
+  Big Data Mining and Analytics<br/>
   Bioinformatics<br/>
   Biomedical Signal Processing and Control<br/>
+  Briefings in Bioinformatics<br/>
   Cognitive Computation<br/>
   Computers in Biology and Medicine<br/>
   Computers in Human Behavior<br/>
