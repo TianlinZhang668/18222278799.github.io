@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianlin Zhang"
+  name             : "Dr.Tianlin Zhang"
   avatar           : "profile.jpg"
-  bio              : "Ph.D student at the University of Manchester, working on natural language processing "
-  location         : "Manchester, UK"
+  bio              : "The University of Manchester, working on natural language processing and deep learning"
+  location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Yy88kOoAAAAJ"
   email            : "tianlin.zhang@postgrad.manchester.ac.uk"
