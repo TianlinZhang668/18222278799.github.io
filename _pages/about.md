@@ -17,6 +17,8 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
 
+- 05/2024 Invited to serve as a reviewer for NeurIPS 2024
+- 04/2024 Our paper titled "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" got accepted in SIGIR 2024 Resource track.
 - 03/2024 Invited to serve an editor for Journal Plos One (IF=3.7)
 - 03/2024 Invited to serve a reviewer for COLM
 - 02/2024 Our paper titled "Emotion Detection for Misinformation: A Review" got accepted in Information Fusion
