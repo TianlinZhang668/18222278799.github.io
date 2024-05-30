@@ -105,6 +105,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   ECML/PKDD'24, ECML/PKDD'23<br/>
   LREC-COLING'24, COLING'22<br/>
   EMNLP'23, EMNLP'21<br/>
+  NLPCC'24<br/>
   ICWSM'24<br/>
   COLM'24<br/>
   BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
