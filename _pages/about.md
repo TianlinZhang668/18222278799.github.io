@@ -17,6 +17,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
 
+- 06/2024 Invited to serve as a reviewer for COLING 2025, CoNLL 2024, DSAA 2024, ICTAI 2024.
 - 05/2024 Invited to serve as a reviewer for NeurIPS 2024
 - 04/2024 Our paper titled "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" got accepted in SIGIR 2024 Resource track.
 - 03/2024 Invited to serve an editor for Journal Plos One (IF=3.7)
@@ -74,6 +75,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   Engineering Applications of Artificial Intelligence<br/>
   Expert Systems With Applications<br/>
   Future Generation Computer Systems<br/>
+  IEEE Transactions on Affective Computing<br/>
   IEEE Transactions on Neural Networks and Learning Systems<br/>
   IEEE/ACM Transactions on Audio, Speech and Language Processing<br/>
   IEEE Transactions on Computational Social Systems<br/>
@@ -103,19 +105,19 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
   CHI'24<br/>
   ECML/PKDD'24, ECML/PKDD'23<br/>
-  LREC-COLING'24, COLING'22<br/>
+  COLING'25, LREC-COLING'24, COLING'22<br/>
   EMNLP'23, EMNLP'21<br/>
   NLPCC'24<br/>
   ICWSM'24<br/>
   COLM'24<br/>
-  BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
-  CoNLL'23, CoNLL'22, CoNLL'21, CoNLL'20<br/>
+  BIBM'24, BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
+  CoNLL'24, CoNLL'23, CoNLL'22, CoNLL'21, CoNLL'20<br/>
   PAKDD'24, PAKDD'23, PAKDD'22, PAKDD'21<br/>
+  DSAA'24, DSAA'23, DSAA'22, DSAA'21, DSAA'20<br/>
+  ICTAI'24', ICTAI'23, ICTAI'22, ICTAI'21, ICTAI'20<br/>
   AMIA'22, AMIA'21<br/>
-  DSAA'23, DSAA'22, DSAA'21, DSAA'20<br/>
   ICANN'23, ICANN'22<br/>
   ICONIP'22, ICONIP'21, ICONIP'20<br/>
-  ICTAI'23, ICTAI'22, ICTAI'21, ICTAI'20<br/>
   KSEM'21<br/>
   APBC'21<br/>
   BIOKDD'20<br/>
