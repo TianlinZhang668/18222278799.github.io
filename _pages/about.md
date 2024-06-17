@@ -17,7 +17,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
 
-- 06/2024 Invited to serve as a reviewer for COLING 2025, CoNLL 2024, DSAA 2024, ICTAI 2024.
+- 06/2024 Invited to serve as a reviewer for COLING 2025, EMNLP 2024 Demo track, EMNLP 2024 Industry track, CoNLL 2024, DSAA 2024, ICTAI 2024, WI-IAT 2024.
 - 05/2024 Invited to serve as a reviewer for NeurIPS 2024
 - 04/2024 Our paper titled "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" got accepted in SIGIR 2024 Resource track.
 - 03/2024 Invited to serve an editor for Journal Plos One (IF=3.7)
@@ -106,7 +106,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   CHI'24<br/>
   ECML/PKDD'24, ECML/PKDD'23<br/>
   COLING'25, LREC-COLING'24, COLING'22<br/>
-  EMNLP'23, EMNLP'21<br/>
+  EMNLP'24, EMNLP'23, EMNLP'21<br/>
   NLPCC'24<br/>
   ICWSM'24<br/>
   COLM'24<br/>
