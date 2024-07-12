@@ -89,6 +89,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   Information Science<br/>
   International Journal of Medical Informatics<br/>
   Internet Interventions<br/>
+  Journal of Biomedical Informatics<br/>
   Journal of the American Medical Informatics Association<br/>
   Journal of Medical Internet Research<br/>
   Knowledge-Based Systems<br/>
