@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my PhD degree from the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a>, advised by Prof.<a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof.<a href="https://www.airc.aist.go.jp/en/intro/">Jun'ichi Tsujii</a> in Jan 2024.
+I spent three years to obtain my PhD degree from the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> in Jan 2024, advised by Prof.<a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof.<a href="https://www.airc.aist.go.jp/en/intro/">Jun'ichi Tsujii</a>.
 In June 2020, I received my Master degree from <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>. Prior to this, I received my BS degree from <a href="https://en.nankai.edu.cn">Nankai University</a> in June 2017.
 
 My current research interests include Deep Learning, Natural Language Processing, LLM, Data Mining, Digital Twin and so on. 
