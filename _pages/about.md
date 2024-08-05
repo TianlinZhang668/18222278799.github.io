@@ -17,6 +17,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
 
+- 08/2024 Invited to serve as Program Committee for AAAI 2025
 - 06/2024 Invited to serve as a reviewer for COLING 2025, EMNLP 2024 Demo track, EMNLP 2024 Industry track, CoNLL 2024, DSAA 2024, ICTAI 2024, WI-IAT 2024.
 - 05/2024 Invited to serve as a reviewer for NeurIPS 2024
 - 04/2024 Our paper titled "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" got accepted in SIGIR 2024 Resource track.
@@ -102,6 +103,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 - **Program Committee/Reviewer**:
 
   ACL'24, ACL'23, ACL'22<br/>
+  AAAI'25<br/>
   ICML'24, ICML'22<br/>
   NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
   ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
