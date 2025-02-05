@@ -17,6 +17,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
 
+- 01/2025 Invited to serve as Program Committee for ICML 2025 and SIGIR 2025.
 - 08/2024 Invited to serve as Program Committee for AAAI 2025 and ICLR 2025.
 - 06/2024 Invited to serve as a reviewer for COLING 2025, EMNLP 2024 Demo track, EMNLP 2024 Industry track, CoNLL 2024, DSAA 2024, ICTAI 2024, WI-IAT 2024.
 - 05/2024 Invited to serve as a reviewer for NeurIPS 2024
@@ -104,9 +105,10 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
   ACL'24, ACL'23, ACL'22<br/>
   AAAI'25<br/>
-  ICML'24, ICML'22<br/>
+  ICML'25, ICML'24, ICML'22<br/>
   NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
   ICLR'25, ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
+  SIGIR'25<br/>
   CHI'24<br/>
   ECML/PKDD'24, ECML/PKDD'23<br/>
   COLING'25, LREC-COLING'24, COLING'22<br/>
