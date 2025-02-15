@@ -17,6 +17,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
 
+- 02/2025 Invited to serve as a reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - 01/2025 Invited to serve as Program Committee for ICML 2025 and SIGIR 2025.
 - 08/2024 Invited to serve as Program Committee for AAAI 2025 and ICLR 2025.
 - 06/2024 Invited to serve as a reviewer for COLING 2025, EMNLP 2024 Demo track, EMNLP 2024 Industry track, CoNLL 2024, DSAA 2024, ICTAI 2024, WI-IAT 2024.
@@ -63,6 +64,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 # Professional services
 - **Journal Reviewer**:
 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence<br/>
   ACM Computing Surveys<br/>
   AI Open<br/>
   Artificial Intelligence In Medicine<br/>
