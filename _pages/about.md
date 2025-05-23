@@ -87,6 +87,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   IEEE Transactions on Fuzzy systems<br/>
   IEEE Transactions on Geoscience and Remote Sensing<br/>
   IEEE Transactions on Software Engineering<br/>
+  IEEE Transactions on Services Computing<br/>
   IEEE Journal of Biomedical and Health Informatics<br/>
   Information Fusion<br/>
   Information & Management<br/>
