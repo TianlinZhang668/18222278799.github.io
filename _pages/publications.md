@@ -6,7 +6,12 @@ author_profile: true
 ---
 You can also find my papers on <a href="https://scholar.google.com/citations?user=Yy88kOoAAAAJ">Google Scholar</a>
 ## 2024
-- Yang, K., **Zhang, T.**, Kuang, Zi., Xie, Q., Ananiadou, S. (2023). MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models. In Web Conference 2024 Web4Good
+- Liu, Z., **Zhang, T.**, Yang, K., Thompson, P., Yu, Z., Ananiadou, S. (2024). Emotion detection for misinformation: A review. Information Fusion
+- Liu, Z., Yang, K., Xie, Q., **Zhang, T.**, Ananiadou, S. (2024).  EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis. KDD 2024
+- **Zhang, T.**, Yang, K., Ji, S., Liu, B., Xie, Q., Ananiadou, S. (2024). SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content. SIGIR 2024
+- Yang, K., Liu, Z., Xie, Q., Huang, J., **Zhang, T.**, Ananiadou, S. (2024). MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models. NeurIPS 2024
+- Xie, Q., ..., **Zhang, T.**. (2024). FinBen: A Holistic Financial Benchmark for Large Language Models. NeurIPS 2024
+- Yang, K., **Zhang, T.**, Kuang, Zi., Xie, Q., Ananiadou, S. (2024). MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models. In Web Conference 2024 Web4Good
 
 ## 2023
 - Yang, K., Ji, S., **Zhang, T. (Co-Second Author)**, Xie, Q., Kuang, Zi., Ananiadou, S. (2023). Towards Interpretable Mental Health Analysis with Large Language Models.  EMNLP 2023
