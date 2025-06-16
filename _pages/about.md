@@ -16,7 +16,8 @@ My current research interests include Deep Learning, Natural Language Processing
 Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
-
+- 06/2025 Invited to serve as Editorial board for Information Processing & Management 
+- 05/2025 Invited to serve as Youth editorial board for Data Science & Management、西南石油大学学报（自然科学版）、山东科学、南通大学学报（自然科学版）
 - 02/2025 Invited to serve as a reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI) and NeurIPS 2025.
 - 01/2025 Invited to serve as Program Committee for ICML 2025 and SIGIR 2025.
 - 08/2024 Invited to serve as Program Committee for AAAI 2025 and ICLR 2025.
@@ -63,7 +64,6 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Professional services
 - **Journal Reviewer**:
-
   IEEE Transactions on Pattern Analysis and Machine Intelligence<br/>
   ACM Computing Surveys<br/>
   AI Open<br/>
