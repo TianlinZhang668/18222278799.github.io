@@ -11,7 +11,7 @@ redirect_from:
 I spent three years to obtain my PhD degree from the National Center for Text Mining (<a href="http://www.nactem.ac.uk/">NaCTeM</a>) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> in Jan 2024, advised by Prof.<a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof.<a href="https://www.airc.aist.go.jp/en/intro/">Jun'ichi Tsujii</a>.
 In June 2020, I received my Master degree from <a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences</a>. Prior to this, I received my BS degree from <a href="https://en.nankai.edu.cn">Nankai University</a> in June 2017.
 
-My current research interests include Deep Learning, Natural Language Processing, LLM, Data Mining, Digital Twin and so on. 
+My current research interests include Deep Learning, Natural Language Processing, LLM, Data Mining and so on. 
 
 Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
@@ -108,17 +108,19 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   Plos One (Editor)<br/>
   Data Science and Management (Young Editor)<br/>
   计算机科学<br/>
+  计算机应用<br/>
+  计算机应用研究<br/>
   计算机工程与应用<br/>
   计算机科学与探索<br/>
 
 - **Program Committee/Reviewer**:
 
-  ACL'24, ACL'23, ACL'22<br/>
+  ACL'25, ACL'24, ACL'23, ACL'22<br/>
   AAAI'25<br/>
-  ICML'25, ICML'24, ICML'22<br/>
+  ICML'26, ICML'25, ICML'24, ICML'22<br/>
   NeurIPS'25, NeurIPS'24, NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
   ICLR'25, ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
-  SIGIR'25<br/>
+  SIGIR'26, SIGIR'25<br/>
   CHI'24<br/>
   ECML/PKDD'24, ECML/PKDD'23<br/>
   COLING'25, LREC-COLING'24, COLING'22<br/>
@@ -129,7 +131,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
   BIBM'24, BIBM'23, BIBM'22, BIBM'21, BIBM'20<br/>
   CoNLL'24, CoNLL'23, CoNLL'22, CoNLL'21, CoNLL'20<br/>
   PAKDD'24, PAKDD'23, PAKDD'22, PAKDD'21<br/>
-  DSAA'24, DSAA'23, DSAA'22, DSAA'21, DSAA'20<br/>
+  DSAA'25, DSAA'24, DSAA'23, DSAA'22, DSAA'21, DSAA'20<br/>
   ICTAI'24', ICTAI'23, ICTAI'22, ICTAI'21, ICTAI'20<br/>
   AMIA'22, AMIA'21<br/>
   ICANN'23, ICANN'22<br/>
