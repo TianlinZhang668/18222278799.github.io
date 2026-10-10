@@ -16,6 +16,7 @@ My current research interests include Deep Learning, Natural Language Processing
 Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 # Recent News
+- 10/2026 Recognized among the World’s Top 2% scientists
 - 06/2025 Invited to serve as Editorial board for Information Processing & Management 
 - 05/2025 Invited to serve as Youth editorial board for Data Science & Management、西南石油大学学报（自然科学版）、西安邮电大学学报、山东科学、南通大学学报（自然科学版）
 - 02/2025 Invited to serve as a reviewer for Transactions on Pattern Analysis and Machine Intelligence (TPAMI) and NeurIPS 2025.
