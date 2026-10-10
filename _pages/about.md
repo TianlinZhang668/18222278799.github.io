@@ -116,16 +116,17 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 
 - **Program Committee/Reviewer**:
 
-  ACL'25, ACL'24, ACL'23, ACL'22<br/>
-  AAAI'25<br/>
+  ACL'26, ACL'25, ACL'24, ACL'23, ACL'22<br/>
+  AAAI'26, AAAI'25<br/>
   ICML'26, ICML'25, ICML'24, ICML'22<br/>
-  NeurIPS'25, NeurIPS'24, NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
-  ICLR'25, ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
+  NeurIPS'26, NeurIPS'25, NeurIPS'24, NeurIPS'23, NeurIPS'22, NeurIPS'21<br/>
+  ICLR'26, ICLR'25, ICLR'24, ICLR'23, ICLR'22, ICLR'21<br/>
   SIGIR'26, SIGIR'25<br/>
   CHI'24<br/>
   ECML/PKDD'24, ECML/PKDD'23<br/>
   COLING'25, LREC-COLING'24, COLING'22<br/>
   EMNLP'24, EMNLP'23, EMNLP'21<br/>
+  WSDM'26<br/>
   NLPCC'24<br/>
   ICWSM'24<br/>
   COLM'24<br/>
@@ -202,6 +203,7 @@ Things to do today: 1. Get up; 2. Be awesome; 3. Go back to bed. 😄
 - Teaching Assistant: Manchester-COMP66090 Masters Project
 
 # Awards and Achievements
+- 2026 the World’s Top 2% scientists
 - 2023 Chinese Government Award for Outstanding Self-financed Students Abroad (600 young talents across the world)
 - 2022 ICML Outstanding Reviewer Award (Top 10%)
 - 2019 Beijing Merit Student Award
